@@ -11,7 +11,7 @@ Analysis of U.S. Department of Health and Human Services (HHS) federal contract 
 ## Key Findings
 1. **Centers for Medicare and Medicaid Services** is the largest HHS sub-agency by spending, obligating nearly $200 billion in FY2024.
 2. **Large businesses receive 84% of total contract dollars** despite having a nearly equal number of contracts as small businesses, indicating significantly larger average contract sizes.
-3. **Leidos Biomedical Research** is the single largest vendor at $31 billion across just 234 contracts — the highest average contract value of any recipient.
+3. **Leidos Biomedical Research** is the single largest vendor at $31 billion across just 234 contracts, the highest average contract value of any recipient.
 4. **Definitive Contracts** account for 46% of total spending despite being fewer in volume than Delivery Orders.
 
 ## Dashboard Preview
